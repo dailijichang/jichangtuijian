@@ -9,9 +9,9 @@
 - 备用很重要，如果经常需要科学上网，那么就不能只有一个机场，建议多买几个备用。
 
 ## 客户端推荐
-- **Windows:** Clsah Verge / Clash for Windows / v2rayN / WinXray / NekoRay / sing-box
-- **macOS:** Clash Verge / Clash for Windows / ClashX / ClashX Pro / Stash / V2rayU / Quantumult X / sing-box
-- **iOS:** Shadowrocket / Quantumult / Quantumult X / Stash / Potatso Lite / sing-box
-- **Android:** v2rayNG / Clash for Android / NekoBox for Android / sing-box / Surfboard
-- **Linux:** Clsah Verge / Clash for Windows / NekoRay / sing-box
-- **路由器:** OpenClash / PassWall2 / SSRplus
+- **Windows:** [Clsah Verge](https://clashverge.org/) / [Clash for Windows](https://clashforwindows.org/) / [v2rayN](https://v2rayn.org/) / [WinXray](https://winxray.org/) / [NekoRay](https://nekoray.org/) / [sing-box](https://sing-box.org/)
+- **macOS:** [Clsah Verge](https://clashverge.org/) / [Clash for Windows](https://clashforwindows.org/) / [ClashX](https://clashx.org/) / [ClashX Pro](https://clashxpro.org/) / [Stash](https://clashstash.org/) / [V2rayU](https://v2rayu.org/) / [Quantumult X](https://quantumultx.org/) / [sing-box](https://sing-box.org/)
+- **iOS:** [Shadowrocket](https://shadowrocketios.org/) / [Quantumult](https://quantumult.org/)_ / [Quantumult X](https://quantumultx.org/) / [Stash](https://clashstash.org/) / [Potatso Lite](https://potatso.org/) / [sing-box](https://sing-box.org/)
+- **Android:** [v2rayNG](https://v2rayng.org/) / [Clash for Android](https://clashforandroid.org/) / [NekoBox for Android](https://nekoboxforandroid.org/) / [sing-box](https://sing-box.org/) / [Surfboard](https://getsurfboard.org/)
+- **Linux:** [Clsah Verge](https://clashverge.org/) / [Clash for Windows](https://clashforwindows.org/) / [NekoRay](https://nekoray.org/) / [sing-box](https://sing-box.org/)
+- **路由器:** [OpenClash](https://openclash.org/) / [PassWall2](https://passwall2.org/) / [SSRplus](https://ssrplus.org/)
