@@ -64,6 +64,8 @@
 
 #### 飞机云机场测速
 
+![FeijiCloud-SpeedTest-SZDX](https://github.com/dailijichang/jichangtuijian/assets/138340607/6eaf6033-3077-41ed-a7f6-6f1366c1fb75)
+
 ### 2. 大哥云
 
 #### 大哥云官网
@@ -84,6 +86,8 @@
 
 #### 大哥云机场测速
 
+![dageyun-SpeedTest-SZDX](https://github.com/dailijichang/jichangtuijian/assets/138340607/16cd636a-8264-40a8-ad6d-1218681ed51f)
+
 ### 3. 龙猫云
 
 #### 龙猫云官网
@@ -100,6 +104,8 @@
 | VIP4套餐 | 按月付  | 120.00 | 1000 GB | 无限制    |
 
 #### 龙猫云机场测速
+
+![TotoroCloud-SpeedTest-SZDX](https://github.com/dailijichang/jichangtuijian/assets/138340607/dbe50df9-22bd-4a50-8632-28ecf5558848)
 
 ### 4. 速云梯
 
@@ -119,6 +125,8 @@
 
 #### 速云梯机场测速
 
+![SuYunTi-SpeedTest-SZDX](https://github.com/dailijichang/jichangtuijian/assets/138340607/59d05e2c-a435-4a26-b778-9eff42cb0e68)
+
 ### 5. 极速VIP加速器
 
 #### 极速VIP加速器官网
@@ -137,6 +145,8 @@
 
 #### 极速VIP加速器机场测速
 
+![JisuVIP-SpeedTest-SZDX](https://github.com/dailijichang/jichangtuijian/assets/138340607/99e19146-f564-4e3e-b406-7902d4967df4)
+
 ### 6. 飞鸟机场
 
 #### 飞鸟机场官网
@@ -153,6 +163,8 @@
 | 钻石套餐 | 按月付  | 150.00 | 1000 GB | 无限制    |
 
 #### 飞鸟机场机场测速
+
+![FlyingBird-SpeedTest-SZDX](https://github.com/dailijichang/jichangtuijian/assets/138340607/2ea838b8-28dd-43d5-8c2f-6ea1d9dcaae2)
 
 ### 7. CyberGuard机场
 
@@ -171,6 +183,8 @@
 
 #### CyberGuard机场机场测速
 
+![cyberguard-SpeedTest-SZDX](https://github.com/dailijichang/jichangtuijian/assets/138340607/ab82d787-442e-4c1b-ac90-3e8d1941c13e)
+
 ### 8. 万城网络
 
 #### 万城网络官网
@@ -188,6 +202,8 @@
 | 专业   | 按月付  | 138.00 | 780 GB | 10     |
 
 #### 万城网络机场测速
+
+![vcity-SpeedTest-SZDX](https://github.com/dailijichang/jichangtuijian/assets/138340607/3f068588-7f2c-4278-a511-5abde5a2aa89)
 
 ### 9. 奶瓶机场
 
@@ -222,6 +238,8 @@
 
 #### 奶瓶机场机场测速
 
+![Nerwo-SpeedTest-SZDX](https://github.com/dailijichang/jichangtuijian/assets/138340607/0f283070-f1f4-408c-8454-791bc53c4c91)
+
 ### 10. SSRDOG机场
 
 #### SSRDOG机场官网
@@ -239,3 +257,5 @@
 | 按量1000G  | 按次付  | 400.00 | 1000 GB | 无限制    |
 
 #### SSRDOG机场机场测速
+
+![SSRDOG-SpeedTest-SZDX](https://github.com/dailijichang/jichangtuijian/assets/138340607/8120e218-c669-45bb-ac0f-997d20c1399b)
