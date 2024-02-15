@@ -47,6 +47,7 @@
 ## 10大稳定好用的机场推荐
 
 ### 1. 飞机云
+飞机云是某大型机场的新开分站，相比主站流量单价更低，采用ShadowsocksR、V2ray（vmess）协议，线路覆盖有公网中转和IPLC专线。
 
 #### 飞机云官网
 
@@ -67,6 +68,7 @@
 ![FeijiCloud-SpeedTest-SZDX](https://github.com/dailijichang/jichangtuijian/assets/138340607/6eaf6033-3077-41ed-a7f6-6f1366c1fb75)
 
 ### 2. 大哥云
+大哥云是一家海外团队运营的翻墙机场，提供V2ray和Trojan翻墙节点，翻墙线路有直连、隧道中转和IPLC内网专线，国内有移动和联通双线入口，安卓和Windows系统可使用大哥云定制客户端。
 
 #### 大哥云官网
 
@@ -89,6 +91,7 @@
 ![dageyun-SpeedTest-SZDX](https://github.com/dailijichang/jichangtuijian/assets/138340607/16cd636a-8264-40a8-ad6d-1218681ed51f)
 
 ### 3. 龙猫云
+Totoro Cloud龙猫云是一家精品小众专线机场，海外团队，采用Shadowsocks协议，IPLC专线节点，对Netflix、Disney+流媒体和ChatGPT解锁支持较好。除了给个人用户提供服务外，还支持企业定制，包括Tiktok直播专线。龙猫云机场对新手十分友好，客服支持很给力，支持远程一对一指导。
 
 #### 龙猫云官网
 
@@ -108,6 +111,7 @@
 ![TotoroCloud-SpeedTest-SZDX](https://github.com/dailijichang/jichangtuijian/assets/138340607/dbe50df9-22bd-4a50-8632-28ecf5558848)
 
 ### 4. 速云梯
+速云梯提供海量SSR/V2ray翻墙协议节点，有国内中转和IPLC内网专线。IPLC专线不经过GFW，即便是敏感时期，稳定性也有保证，不担心被封锁。速云梯机场节点都有标注倍率，使用时需要注意，高倍率节点一般更为稳定快速，低倍率节点适合日常刷网页使用，更为经济。
 
 #### 速云梯官网
 
@@ -128,6 +132,7 @@
 ![SuYunTi-SpeedTest-SZDX](https://github.com/dailijichang/jichangtuijian/assets/138340607/59d05e2c-a435-4a26-b778-9eff42cb0e68)
 
 ### 5. 极速VIP加速器
+极速VIP加速器是老牌机场旗下的新晋分站，提供稳定专业流媒体解锁和游戏加速服务的高端性价比机场节点梯子。采用BGP隧道中转优化和IPLC国际专线，支持SSR/V2Ray协议，适用于几乎所有主流系统下的翻墙插件。
 
 #### 极速VIP加速器官网
 
@@ -148,6 +153,7 @@
 ![JisuVIP-SpeedTest-SZDX](https://github.com/dailijichang/jichangtuijian/assets/138340607/99e19146-f564-4e3e-b406-7902d4967df4)
 
 ### 6. 飞鸟机场
+FlyingBird飞鸟机场是一家成立于2022年的翻墙机场，采用流行的Shadowsocks翻墙协议，专线节点，高速稳定。FlyingBird所有套餐均不设限速，也不限制设备数量，并且可以很好的解锁翻墙者常用的奈飞、迪士尼Plus流媒体服务，可以满足绝大部分翻墙用户需要。
 
 #### 飞鸟机场官网
 
@@ -167,6 +173,7 @@
 ![FlyingBird-SpeedTest-SZDX](https://github.com/dailijichang/jichangtuijian/assets/138340607/2ea838b8-28dd-43d5-8c2f-6ea1d9dcaae2)
 
 ### 7. CyberGuard机场
+CyberGuard也叫CG加速器，机场团队主要人员位于海外，Shadowsocks协议，线路有IEPL专线和AnyCast网络，对流媒体和OpenAI都提供解锁支持。CyberGuard机场1元开启试用，有3G的试用流量。此外，CyberGuard机场也提供不限时长的按量付费流量包套餐。
 
 #### CyberGuard机场官网
 
@@ -186,6 +193,7 @@
 ![cyberguard-SpeedTest-SZDX](https://github.com/dailijichang/jichangtuijian/assets/138340607/ab82d787-442e-4c1b-ac90-3e8d1941c13e)
 
 ### 8. 万城网络
+万城网络创立于2023年，是一家主打稳定的专线机场，采用Shadowsocks协议，节点覆盖常用地区和海量小众冷门地区节点。万城网络机场有定制的Windows客户端，也有按量付费流量包提供。
 
 #### 万城网络官网
 
@@ -206,6 +214,7 @@
 ![vcity-SpeedTest-SZDX](https://github.com/dailijichang/jichangtuijian/assets/138340607/3f068588-7f2c-4278-a511-5abde5a2aa89)
 
 ### 9. 奶瓶机场
+Nerwo奶瓶机场是一家成立云2019年的翻墙机场，采用Shadowsocks（R）和Trojan翻墙协议，线路方面为BGP国内中转，晚高峰有一定的保障。
 
 #### 奶瓶机场官网
 
@@ -241,6 +250,7 @@
 ![Nerwo-SpeedTest-SZDX](https://github.com/dailijichang/jichangtuijian/assets/138340607/0f283070-f1f4-408c-8454-791bc53c4c91)
 
 ### 10. SSRDOG机场
+SSRDOG机场提供精品专线加速服务，常用地区V2ray高速节点。SSRDOG注册可免费试用12小时，同时有不限时长按量付费套餐提供。
 
 #### SSRDOG机场官网
 
