@@ -47,14 +47,6 @@
 | [WinXray](https://winxray.org/?utm_source=github&utm_medium=jichangtuijian)                | ✔       |       |       |     |         |     |
 
 
-- **Windows:** [Clsah Verge](https://clashverge.org/?utm_source=github&utm_medium=jichangtuijian) / [Clash for Windows](https://clashforwindows.org/?utm_source=github&utm_medium=jichangtuijian) / [v2rayN](https://v2rayn.org/?utm_source=github&utm_medium=jichangtuijian) / [WinXray](https://winxray.org/?utm_source=github&utm_medium=jichangtuijian) / [NekoRay](https://nekoray.org/?utm_source=github&utm_medium=jichangtuijian) / [sing-box](https://sing-box.org/?utm_source=github&utm_medium=jichangtuijian)
-- **macOS:** [Clsah Verge](https://clashverge.org/?utm_source=github&utm_medium=jichangtuijian) / [Clash for Windows](https://clashforwindows.org/?utm_source=github&utm_medium=jichangtuijian) / [ClashX](https://clashx.org/?utm_source=github&utm_medium=jichangtuijian) / [ClashX Pro](https://clashxpro.org/?utm_source=github&utm_medium=jichangtuijian) / [Stash](https://clashstash.org/?utm_source=github&utm_medium=jichangtuijian) / [V2rayU](https://v2rayu.org/?utm_source=github&utm_medium=jichangtuijian) / [Quantumult X](https://quantumultx.org/?utm_source=github&utm_medium=jichangtuijian) / [sing-box](https://sing-box.org/?utm_source=github&utm_medium=jichangtuijian)
-- **iOS:** [Shadowrocket](https://shadowrocketios.org/?utm_source=github&utm_medium=jichangtuijian) / [Quantumult](https://quantumult.org/?utm_source=github&utm_medium=jichangtuijian)_ / [Quantumult X](https://quantumultx.org/?utm_source=github&utm_medium=jichangtuijian) / [Stash](https://clashstash.org/?utm_source=github&utm_medium=jichangtuijian) / [Potatso Lite](https://potatso.org/?utm_source=github&utm_medium=jichangtuijian) / [sing-box](https://sing-box.org/?utm_source=github&utm_medium=jichangtuijian)
-- **Android:** [v2rayNG](https://v2rayng.org/?utm_source=github&utm_medium=jichangtuijian) / [Clash for Android](https://clashforandroid.org/?utm_source=github&utm_medium=jichangtuijian) / [NekoBox for Android](https://nekoboxforandroid.org/?utm_source=github&utm_medium=jichangtuijian) / [sing-box](https://sing-box.org/?utm_source=github&utm_medium=jichangtuijian) / [Surfboard](https://getsurfboard.org/?utm_source=github&utm_medium=jichangtuijian)
-- **Linux:** [Clsah Verge](https://clashverge.org/?utm_source=github&utm_medium=jichangtuijian) / [Clash for Windows](https://clashforwindows.org/?utm_source=github&utm_medium=jichangtuijian) / [NekoRay](https://nekoray.org/?utm_source=github&utm_medium=jichangtuijian) / [sing-box](https://sing-box.org/?utm_source=github&utm_medium=jichangtuijian)
-- **路由器:** [OpenClash](https://openclash.org/?utm_source=github&utm_medium=jichangtuijian) / [PassWall2](https://passwall2.org/?utm_source=github&utm_medium=jichangtuijian) / [ShadowsocksR Plus+](https://ssrplus.org/?utm_source=github&utm_medium=jichangtuijian)
-
-
 ## 2025年10大稳定好用的机场推荐
 
 ### 1. 优信云机场
